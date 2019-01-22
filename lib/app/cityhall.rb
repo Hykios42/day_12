@@ -47,6 +47,12 @@ class   Scrapper
 end
 
 
+puts "Bonjour"
+
 test = Scrapper.new()
 
+puts "Test"
+
 test.get_townhall_urls
+
+puts "Fin"
